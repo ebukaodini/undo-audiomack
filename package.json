@@ -1,0 +1,24 @@
+{
+  "name": "undo-audiomack",
+  "version": "1.0.0",
+  "description": "A CLI tool to convert all downloaded audiomack songs to valid mp3 songs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebukaodini/undo-audiomack.git"
+  },
+  "keywords": [
+    "music",
+    "audiomack"
+  ],
+  "author": "Ebuka Odini <ebukaodini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebukaodini/undo-audiomack/issues"
+  },
+  "homepage": "https://github.com/ebukaodini/undo-audiomack#readme"
+}
