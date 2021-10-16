@@ -7,7 +7,7 @@ A CLI tool to convert all downloaded audiomack songs to valid mp3 songs
   ```bash
   git clone https://github.com/ebukaodini/undo-audiomack.git
   ```
-+ Move the downloaded audiomack files to the `from/` directory
++ Move the downloaded audiomack files to the `src/from/` directory
 + start the program with 
   ```bash
   npm start
